@@ -2,7 +2,7 @@
   "name": "openssl-docs",
   "displayName": "OpenSSL-docs",
   "description": "Aut load docs for openssl",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },

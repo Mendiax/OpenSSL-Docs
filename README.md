@@ -16,7 +16,7 @@ This extension enhances Visual Studio Code with the ability to display link to d
 
 ## Installation
 
-1. Download the `.vsix` file of the extension from the [Releases](https://github.com/Mendiax/openssl-docs/releases) page.
+1. Download the `.vsix` file of the extension from the [Releases](https://github.com/Mendiax/OpenSSL-Docs/releases) page.
 2. Install the extension by following the [instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix) on Visual Studio Code's documentation.
 
 ## Usage
@@ -30,7 +30,7 @@ This extension enhances Visual Studio Code with the ability to display link to d
 
 ## Known Issues
 
-- None at the moment. Please report any issues [here](https://github.com/Mendiax/openssl-docs/issues).
+- None at the moment. Please report any issues [here](https://github.com/Mendiax/OpenSSL-Docs/issues).
 
 ## Release Notes
 
@@ -41,7 +41,7 @@ This extension enhances Visual Studio Code with the ability to display link to d
 
 ## Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request or open an issue [here](https://github.com/Mendiax/openssl-docs/issues).
+Contributions are welcome! Fork the repository and submit a pull request or open an issue [here](https://github.com/Mendiax/OpenSSL-Docs/issues).
 
 ## License
 
